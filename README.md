@@ -1,7 +1,7 @@
 ### Hello, I'm Jo Eun Lee  but you can just call me Rebecca 👋
 
 - 🤗Full-stack developer from Korea
-- 😄I made some website hotel booking app Carebnb, News Filtering, Todolist
+- 😄I made some website hotel booking app Carebnb, News Filtering, Todolist , CV 
 - 🎈I'm learning Redux and typescript
 - 👍Theseday I am interested in graph like, 
 - 💌You can reach me through the email : [leejoeun@gmail.com](leejoeun@gmail.com)
