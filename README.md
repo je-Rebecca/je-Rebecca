@@ -2,7 +2,7 @@
 
 
 - 🤗Junior Front end developer from Korea, I want to be a grate full stack developer 
-- 😄I made some website hotel booking app Carebnb, News Filtering, Todolist , CV 
+- 😄I made some website hotel booking app [Carebnb](https://github.com/leemj0948/Carebnb), [Movie Filter](https://github.com/je-Rebecca/movie-filter),News Filtering, Todolist , [CV](https://portfolios-cv.herokuapp.com/) 
 - 🎈I'm learning Redux and typescript
 - 👍Theseday I am interested in graph like, 
 - 💌You can reach me through the email : [leejoeun@gmail.com](leejoeun@gmail.com)
