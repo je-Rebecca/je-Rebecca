@@ -1,7 +1,7 @@
 #### Hello, I'm Jo Eun Lee  but you can just call me Rebecca 👋
 
 
-- 🤗Full-stack developer from Korea
+- 🤗Junior Front end developer from Korea, I want to be a grate full stack developer 
 - 😄I made some website hotel booking app Carebnb, News Filtering, Todolist , CV 
 - 🎈I'm learning Redux and typescript
 - 👍Theseday I am interested in graph like, 
